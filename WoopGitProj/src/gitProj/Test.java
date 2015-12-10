@@ -10,6 +10,5 @@ public class Test {
 		System.out.println("2:01");
 		System.out.println("Heya Yoda! from laptop");
 		System.out.println("from desktop");
-		System.out.println("Once again, Heya Yoda! from laptop");
 	}
 }
