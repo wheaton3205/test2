@@ -8,6 +8,5 @@ public class Test {
 		System.out.println("whatever");
 		System.out.println("Yoda Rules again!");
 		System.out.println("2:01");
-		System.out.println("Added from desktop");
 	}
 }
